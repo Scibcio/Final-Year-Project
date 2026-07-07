@@ -16,10 +16,6 @@ To prove the necessity of institutional data and rigorous validation, this proje
 ## Repository Structure
 **(Note: Due to university Moodle upload limits, the raw CSV data files, generated features, and compiled neural network weights have been hosted on a secure external cloud drive).**
 
-**(https://uogcloud-my.sharepoint.com/:f:/g/personal/ms2709h_gre_ac_uk/IgA-bFAaQsQuQbFSex5zcrTgAUBZrkaqJgH0C3kUHlsoGfM?e=1HwP8W)**
-
-The ZIP file submitted to Moodle contains the pure Python logic engines and interactive dashboards used to process that data.
-
 Final_Year_Project_Code
  |
  |-- 01_Data_Collection
